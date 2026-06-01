@@ -3,14 +3,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-05-31T14:34:03-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-31T14:34:03-03:00</lastmod>
+    <lastmod>2026-06-01T19:30:59-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-05-31T14:17:58-03:00</lastmod>
+    <lastmod>2026-06-01T19:30:59-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/coagula-subita/</loc>
+    <lastmod>2026-06-01T19:30:59-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/composition/</loc>
+    <lastmod>2026-06-01T19:30:59-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/electro-acoustic/</loc>
+    <lastmod>2026-06-01T19:30:59-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2026-06-01T19:30:59-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/musical-compositions/</loc>
+    <lastmod>2026-06-01T19:30:59-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-01T19:30:59-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2026-05-31T14:34:03-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/game-reviews/</loc>
     <lastmod>2026-05-31T14:17:58-03:00</lastmod>
@@ -25,9 +43,6 @@
     <lastmod>2026-05-31T14:17:58-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/review/</loc>
-    <lastmod>2026-05-31T14:17:58-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-05-31T14:17:58-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
