@@ -28,6 +28,6 @@ Its important to consider that a lot of these issues WERE present in the base ga
 
 All in all it's a shame for me to think of how good this game can be, because it'll always stand under the shadow of its own baffling design choices.
 
-## Rating: 🌑🌑🌓🌕🌕
+## Rating: 🌕🌕🌗🌑🌑
 
 Cover image by: [Monster Hunter Art Works Chinese](https://archive.org/details/monster-hunter-art-works-chinese)
