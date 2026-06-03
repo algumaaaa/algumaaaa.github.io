@@ -14,9 +14,9 @@ menu:
   - name: about
     url: "about"
     icon: 'images/question.png'
-#  - name: friend
-#    url: "friend"
-#    icon:
+#  - name: artstuffs
+#    url: "artstuffs"
+#    icon: f0c1
 
 mainSections: ["post"]
 # 年，月，日及时间的格式化样式
@@ -28,7 +28,7 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: Helena
 email: estudioteh@gmail.com
-description: "programadora, musicista"
+description: "programmer, musician"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
@@ -47,7 +47,7 @@ subtitle:
     showCursor: true            # 是否显示闪烁的字符
     cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "postando coisinhas legais"        # 当 typing.enable = false 时使用
+  text: "posting cool stuff"        # 当 typing.enable = false 时使用
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -102,7 +102,7 @@ copyright:
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></div>
 
 footer:
-  since: 2020 # 2020-current year
+  since: 2026 # 2020-current year
   powered: true
   count: true
   busuanzi: true
